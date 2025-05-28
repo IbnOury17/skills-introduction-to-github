@@ -1,0 +1,12 @@
+ros_conveyor_monitor/
+├── README.md
+├── launch/
+│   └── conveyor_monitor.launch
+├── scripts/
+│   └── monitor.py
+├── urdf/
+│   └── robot.urdf.xacro
+├── worlds/
+│   └── conveyor_world.world
+├── CMakeLists.txt
+└── package.xml
